@@ -5,7 +5,8 @@ This repository is part of the module 9 capstone project of the IBM Data Science
 This repository has the following files:
 
 1) Rio_Hostel_Project_Final.ipynb: jupyter notebook with the code.
-2) Rio_Neighborhoods.xlsx:  includes the geolocation (latitude and longitude) of the neighborhoods/spots.
-3) rio_venues.xlsx: generated from the code/jupyter file.
-4) 'Rio Hostel Project.pdf': report.
-5) 'Rio Hostel Presentation.pdf': presentation file.
+2) Bar_Charts_R_Code.R: R (ggplot2) code used in order to create the bar charts.
+3) Rio_Neighborhoods.xlsx:  includes the geolocation (latitude and longitude) of the neighborhoods/spots.
+4) rio_venues.xlsx: generated from the code/jupyter file.
+5) 'Rio Hostel Project.pdf': report.
+6) 'Rio Hostel Presentation.pdf': presentation file.
