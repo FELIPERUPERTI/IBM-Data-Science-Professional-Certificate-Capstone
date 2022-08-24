@@ -1,6 +1,6 @@
 # IBM-Data-Science-Professional-Certificate-Capstone
 
-This repository is part of the module 9 capstone project of the IBM Data Science Professional Certificate and presents a data analysis study of the best neighborhoods in the city of Rio de Janeiro for the installment of a new hostel. The code was mainly written in Python, although R ggplot2 package was employed to create the bar charts. The .pdf report was generated using Latex and the .pdf presentation, using Beamer-Latex.
+This repository is part of module 9 capstone project of the IBM Data Science Professional Certificate and presents a data analysis study of the best neighborhoods in the city of Rio de Janeiro to start a new hostel. The code was mainly written in Python, although R's ggplot2 package was employed to create the bar charts. The .pdf report was generated using Latex and the .pdf presentation, using Beamer-Latex.
 
 This repository has the following files:
 
